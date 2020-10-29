@@ -2,8 +2,8 @@
 This project is my atempt to remake famous Super Mario game. 
 The code is written in Java (using Spring Framework and MVC pattern).
 
-![Main menu](https://s31.postimg.org/424xu3897/Super_Mario1.jpg)
-![Game](https://s31.postimg.org/w6k6cao8r/Super_Mario2.jpg)
+![](pics/Super_Mario_1.jpg)
+![](pics/Super_Mario_2.jpg)
 
 # Resources
 Sprites and sounds are taken from:
